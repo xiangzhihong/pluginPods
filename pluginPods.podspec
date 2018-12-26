@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
     s.authors      = {'xiangzhihong' => '1044817967@qq.com'}
     s.platform     = :ios, '8.0'
     s.source       = {:git => 'https://github.com/xiangzhihong/pluginPods.git', :tag => s.version}
-    s.source_files = 'BannerView/**/*.swift'
+    s.source_files = 'BannerView/*'
 end
